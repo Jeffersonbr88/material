@@ -92,10 +92,6 @@ msgstr ""
 msgid "plugins.themes.material.displayStats.noStats"
 msgstr ""
 
-
-msgid "plugins.themes.material.makeSubmission"
-msgstr "Enviar article"
-
 msgid "plugins.themes.material.option.disablePrefixAndTitle.label"
 msgstr "Desactiva el prefix del títol de l'article"
 
